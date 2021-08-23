@@ -1,0 +1,44 @@
+
+/* Login Tela */
+.tela-login{
+    background-color: rgba(0, 0, 0, 0.9);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -35%);
+    padding: 80px;
+    border-radius: 15px;
+    color: white;
+  }
+
+  input{
+    padding: 15px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+  }
+  
+  button{
+    background-color: rgb(102, 174, 245);
+    border: none;
+    padding: 15px;
+    border-radius: 15px;
+    width: 100%;
+    color: white;
+    font-size: 15px;
+  }
+
+  button:hover{
+    background-color: #0d6efd;
+    cursor: pointer;
+  }
+
+  .Name{
+      border-radius: 15px;
+  }
+
+  .Password{
+      border-radius: 15px
+  }
+
+  /* Fim Login */
